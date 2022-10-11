@@ -1,0 +1,23 @@
+{
+  "name": "moralis_google_firebase_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daenamcclintock/Moralis_Google_Firebase_Backend.git"
+  },
+  "author": "Yazeed Hani, Daena McClintock, Fabian Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daenamcclintock/Moralis_Google_Firebase_Backend/issues"
+  },
+  "homepage": "https://github.com/daenamcclintock/Moralis_Google_Firebase_Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
